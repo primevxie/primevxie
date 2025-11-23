@@ -1,18 +1,22 @@
+# `> primevx`
 
-![standard](https://github.com/user-attachments/assets/f096e68f-2ed4-425d-b548-a8cdd2726b4e)
-## 📊 GitHub Stats  
+-----
 
-<div align="center">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=primevxie&show_icons=true&theme=dark"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primevxie&layout=compact&theme=dark"/>  
-</div>  
+## stats
 
----
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=primevxie&show_icons=true&theme=dark&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=B0B0B0&bg_color=000000" alt="primevxie's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primevxie&layout=compact&theme=dark&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=B0B0B0&bg_color=000000" alt="primevxie's Top Languages"/>
+</div>
 
-## 🌟 Tech Stack  
+-----
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+## links
+
+- **X (Twitter):** [primevxie](https://x.com/primevxie)
+- **Instagram:** [altwixy.lol](https://www.instagram.com/altwixy.lol)
+- **TikTok:** [primevxie](https://www.tiktok.com/@primevxie)
+- **YouTube:** [vxielo](https://www.youtube.com/@vxielo)
+- **Spotify:** [ender](https://open.spotify.com/user/31x6h2vypbblxeesiumnzt7veeqe?si=2d037cfeb2f94d9f)
+
+-----
