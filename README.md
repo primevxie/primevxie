@@ -3,8 +3,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkitDev&show_icons=true&theme=dark"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkitDev&layout=compact&theme=dark"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=primevxie&show_icons=true&theme=dark"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primevxie&layout=compact&theme=dark"/>  
 </div>  
 
 ---
