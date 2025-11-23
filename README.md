@@ -1,5 +1,5 @@
-# Wsp! I'm vx.
 
+![standard](https://github.com/user-attachments/assets/f096e68f-2ed4-425d-b548-a8cdd2726b4e)
 ## 📊 GitHub Stats  
 
 <div align="center">  
