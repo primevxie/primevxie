@@ -13,10 +13,5 @@
 
 ## links
 
-- **X (Twitter):** [primevxie](https://x.com/primevxie)
-- **Instagram:** [altwixy.lol](https://www.instagram.com/altwixy.lol)
-- **TikTok:** [primevxie](https://www.tiktok.com/@primevxie)
-- **YouTube:** [vxielo](https://www.youtube.com/@vxielo)
-- **Spotify:** [ender](https://open.spotify.com/user/31x6h2vypbblxeesiumnzt7veeqe?si=2d037cfeb2f94d9f)
-
+i changed everythin n im busy rn so i cant put new links jus dm me on ig wholelottadeadd if u want sum
 -----
