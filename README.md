@@ -13,5 +13,5 @@
 
 ## links
 
-i changed everythin n im busy rn so i cant put new links jus dm me on ig wholelottadeadd if u want sum
+i changed everythin n im busy rn so i cant put new links jus dm me on ig no9.wav if u want sum
 -----
